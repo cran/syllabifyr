@@ -1,11 +1,12 @@
-82ff0b53f66d2ef09655b26de031963c *DESCRIPTION
+5b54ea8daafa8875ec024ef5e71817d4 *DESCRIPTION
+4ae686c43a238d44fd3172477b7135f1 *LICENSE
 34a4a53d1a7ebb4cf5438e19b156f290 *NAMESPACE
-471535c33a412957a44e14145f09ad06 *NEWS.md
+b2d05ce1f10c81a3289212a95ed613f2 *NEWS.md
 81ddded9c6a15678abf62dd8853f2db5 *R/constants.R
 256bddf30460dbaab3a90fb305f300f3 *R/data.R
-87bc0a8ff08aa8f900e40f09d5c100b7 *R/syllabify.R
+e816320aa96e068764fe45f78ac9501b *R/syllabify.R
 c2492452bdb92db1b2691a34752a7c83 *R/syllabifyr.R
-9ba4c85cc7abfab9b3ef975b61b564b4 *README.md
+2b7e054d35822e5cce20aef4ff4882dd *README.md
 d83dc3a63776cfe12c64bb9467ef273f *data/syllabify_test_dict.rda
 4fd4916d9474454003f3246106fb6ca7 *man/figures/logo.png
 84b5d84714e836c3e23c68a4e578de87 *man/make_onset_indices.Rd
@@ -13,6 +14,6 @@ d83dc3a63776cfe12c64bb9467ef273f *data/syllabify_test_dict.rda
 cbec22f566b027f5aff112358a25f4d8 *man/syllabify.Rd
 e293e973a4ea88e1983df62244d59e34 *man/syllabify_list.Rd
 e880715a4055bb4eff90f3f383060d6a *man/syllabify_test_dict.Rd
-404bcb92fc5ef54855371fb45fcdc1cd *man/syllabifyr.Rd
+551229efff0e6da6152d476bc9c51dc0 *man/syllabifyr.Rd
 9090ec1d6ac28251b64cbd3375b8afdf *tests/testthat.R
 016cba3e1e5deed668fc1571c11405e2 *tests/testthat/test-syllabification.R
